@@ -9,7 +9,7 @@
    Click the **+** icon ➕ and select **New Code File**.
 
 3. **Replace the Code Section**  
-   Replace the following part with the code from the file:
+   Replace the following part with the code from the file (Framer_Badge.tsx):
 
    ```jsx
    return (
