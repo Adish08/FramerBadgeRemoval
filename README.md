@@ -1,7 +1,3 @@
-Below is the updated **README.md** file with the GitHub callout syntax integrated:
-
----
-
 # 🚀 Framer Badge Removal
 
 This guide explains how to remove the Framer badge from your project by updating the code and pages.
@@ -40,10 +36,3 @@ This guide explains how to remove the Framer badge from your project by updating
 
 7. **Publish Your Website**  
    Finally, publish your website 🔥 and you’re all set! 🎉
-
-   > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
---- 
-
-Simply copy this into your **README.md** file in your GitHub repository.
