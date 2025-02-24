@@ -31,8 +31,7 @@ This guide explains how to remove the Framer badge from your project by updating
 6. **Attach the Code File**  
    In **Assets > Code**, drag the code file you created onto the page.
 
-   > [!WARNING]  
-   > Repeat this step for each page you created by dragging the code file onto every page.
+> ⚠️ Important: Repeat this step for each page you created by dragging the code file onto every page.
 
 7. **Publish Your Website**  
    Finally, publish your website 🔥 and you’re all set! 🎉
