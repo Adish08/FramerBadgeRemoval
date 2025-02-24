@@ -1,8 +1,6 @@
 # 🚀 Framer Badge Removal
 
-This guide explains how to remove the Framer badge from your project by updating the code and pages.
-
-## 📋 Steps
+## 📋 Action Plan
 
 1. **Edit the Project**  
    Navigate to **Assets > Code**. 🛠️
@@ -35,3 +33,5 @@ This guide explains how to remove the Framer badge from your project by updating
 
 7. **Publish Your Website**  
    Finally, publish your website 🔥 and you’re all set! 🎉
+
+## 🌟Love this spell? Give it a star and keep the magic alive!
