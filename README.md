@@ -1,4 +1,5 @@
-# 🚀 Framer Badge Removal
+# 🚀 Framer Badge Removal <span style="float: right;">[![Visits Badge](https://badges.pufler.dev/visits/Adish08/FramerBadgeRemoval)](https://github.com/Adish08/FramerBadgeRemoval)</span>
+ *Just a toy trick to remove the stubborn "Made in Framer" Badge* ;)
 
 ## 📋 Action Plan
 
@@ -6,10 +7,10 @@
    Navigate to **Assets > Code**. 🛠️
 
 2. **Create a New Code File**  
-   Click the **+** icon ➕ and select **New Code File**.
+   Click the **+** icon and select **New Code File**.
 
 3. **Replace the Code Section**  
-   Replace the following part with the code from the file (Framer_Badge.tsx):
+   Replace the following part with the code from the  [file.](https://github.com/Adish08/FramerBadgeRemoval/blob/main/Framer_Badge.tsx)
 
    ```jsx
    return (
