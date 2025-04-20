@@ -35,4 +35,6 @@
 7. **Publish Your Website**  
    Finally, publish your website :fire: and you’re all set! :tada:
 
+### Want a Visual Guide? [Here it is!](https://youtu.be/qGHP7h5_z2M)
+
 ## :heart:Love this spell? Give it a star and keep the magic alive!:star:
