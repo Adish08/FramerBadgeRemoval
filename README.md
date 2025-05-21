@@ -1,4 +1,4 @@
-# :rocket: Framer Badge Removal <span style="float: right;">[![Visits Badge](https://badges.pufler.dev/visits/Adish08/FramerBadgeRemoval)](https://github.com/Adish08/FramerBadgeRemoval)</span>
+# :rocket: Framer Badge Removal <span style="float: right;">![](https://api.visitorbadge.io/api/VisitorHit?user=Adish08&repo=FramerBadgeRemoval&countColor=%237B1E7A)</span>
  *Just a toy trick to remove the stubborn "Made in Framer" Badge* ;)
 
 ## :clipboard: Action Plan
