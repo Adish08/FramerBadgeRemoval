@@ -1,6 +1,6 @@
-# :rocket: Framer Badge Removal <span style="float: right;">![](https://api.visitorbadge.io/api/VisitorHit?user=Adish08&repo=FramerBadgeRemoval&countColor=%237B1E7A)</span>
+# :rocket: Framer Badge Removal <span style="float: right;">![](https://api.visitorbadge.io/api/VisitorHit?user=Adish08&repo=FramerBadgeRemoval&countColor=%23228B22)</span>
  *Just a toy trick to remove the stubborn "Made in Framer" Badge* ;)
-
+ 
 ## :clipboard: Action Plan
 
 1. **Edit the Project**  
